@@ -22,7 +22,7 @@ Screening Test
 * On the same page, below the video element, add another Heading called "Upload File"
 * Add a file upload element which accepts IMAGES ONLY . 
 * Use jQuery to detect when the file upload element is changed. Each time the element is changed, perform the below step.
-* Use HTML5 canvas to display a preview of the image file when you upload it. The preview image size should be 200px x 200px
+* Use HTML5 canvas to display a preview of the image file when you upload it. The preview image size should be 200px X 200px
 
 
 ### 3. Meteor basics - 15 minutes
