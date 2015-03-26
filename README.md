@@ -25,7 +25,7 @@ Screening Test
 * Use HTML5 canvas to display a preview of the image file when you upload it. The preview image size should be 200px x 200px
 
 
-### 3. Linux basics - 15 minutes
+### 3. Meteor basics - 15 minutes
 
 * Install meteor. Follow the quickstart instructions on https://docs.meteor.com
 * Create a hello world app and run it
