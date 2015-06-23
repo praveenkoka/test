@@ -10,6 +10,7 @@ Screening Test
 
 ### 1. Basic HTML - 15 to 20 minutes
 
+* Install bootstrap - http://getbootstrap.com/getting-started/
 * Download this bootstrap theme - http://startbootstrap.com/template-overviews/sb-admin-2/
 * Create a new empty page at the path "/html-test". Add a link called "HTML Test" on the index page in the left menu
 * Create a heading called "Video" at the top of the page
